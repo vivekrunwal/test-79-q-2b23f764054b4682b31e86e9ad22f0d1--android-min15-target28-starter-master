@@ -1,0 +1,7 @@
+<resources>
+    <string name="app_name">Application</string>
+    <string name="login">Log in</string>
+    <string name="auth0_client_id">email</string>
+    <string name="auth0_domain">password</string>
+    <string name="api_url">http://10.0.2.2:8080/timesheets</string>
+</resources>
